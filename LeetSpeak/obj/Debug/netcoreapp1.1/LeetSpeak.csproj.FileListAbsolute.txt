@@ -1,0 +1,8 @@
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak\bin\Debug\netcoreapp1.1\LeetSpeak.deps.json
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak\obj\Debug\netcoreapp1.1\LeetSpeak.csproj.CoreCompileInputs.cache
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak\obj\Debug\netcoreapp1.1\LeetSpeak.AssemblyInfo.cs
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak\bin\Debug\netcoreapp1.1\LeetSpeak.dll
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak\bin\Debug\netcoreapp1.1\LeetSpeak.pdb
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak\obj\Debug\netcoreapp1.1\LeetSpeak.dll
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak\obj\Debug\netcoreapp1.1\LeetSpeak.pdb
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak\obj\Debug\netcoreapp1.1\LeetSpeak.csprojResolveAssemblyReference.cache

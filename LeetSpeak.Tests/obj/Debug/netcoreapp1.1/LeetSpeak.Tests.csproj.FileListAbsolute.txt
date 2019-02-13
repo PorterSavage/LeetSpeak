@@ -1,0 +1,15 @@
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp1.1\LeetSpeak.Tests.deps.json
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp1.1\LeetSpeak.Tests.runtimeconfig.json
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp1.1\LeetSpeak.Tests.runtimeconfig.dev.json
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp1.1\LeetSpeak.Tests.csproj.CoreCompileInputs.cache
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp1.1\LeetSpeak.Tests.AssemblyInfo.cs
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp1.1\LeetSpeak.Tests.dll
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp1.1\LeetSpeak.Tests.pdb
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp1.1\LeetSpeak.dll
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp1.1\LeetSpeak.pdb
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp1.1\LeetSpeak.Tests.dll
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp1.1\LeetSpeak.Tests.pdb
+C:\Users\thepo\onedrive\desktop\projects\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp1.1\LeetSpeak.Tests.csprojResolveAssemblyReference.cache
